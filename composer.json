@@ -1,5 +1,5 @@
 {
-  "name": "laravel/blade-view",
+  "name": "daofirst-admin/blade",
   "description": "laravel admin",
   "type": "library",
   "keywords": ["laravel", "admin", "grid", "daofirst", "form"],
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "BladeView\\": "src/"
+      "DaofirstAdmin\\": "src/"
     }
   }
 }
