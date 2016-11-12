@@ -1,0 +1,22 @@
+{
+  "name": "laravel/blade-view",
+  "description": "laravel admin",
+  "type": "library",
+  "keywords": ["laravel", "admin", "grid", "daofirst", "form"],
+  "homepage": "https://github.com/daofirst/daofirst-admin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zhengyuan tang",
+      "email": "13764767060@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "BladeView\\": "src/"
+    }
+  }
+}
